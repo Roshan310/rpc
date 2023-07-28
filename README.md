@@ -1,1 +1,1 @@
-# Rock Paper Scissor game in JavaScript
+# Rock Paper Scissor game in JavaScript (JS Transition)
